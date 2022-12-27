@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Renni!</h1>
-<h3 align="center">Mainly a frontend developer, currently working with a .NET stack.</h3>
+<h3 align="center">Mainly a frontend developer, currently working in .NET stack.</h3>
 
 - 🔭 I’m currently working on [a minimal API in ASP.NET](https://github.com/briannarenni/RequestAPI)
 
