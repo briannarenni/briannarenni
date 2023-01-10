@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏾, I'm Renni!</h1>
 <h3 align="center">Mainly a frontend developer, currently working in .NET stack.</h3>
 
-- 🌱 I’m currently learning **some Python, and some DevOps**
+- 🌱 I’m currently learning some Python, and some DevOps (CI/CD)
 
-- ⚡ Fun fact **I started out self taught!**
+- ⚡ Fun fact: **I started out self taught!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
