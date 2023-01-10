@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Renni!</h1>
 <h3 align="center">Mainly a frontend developer, currently working in .NET stack.</h3>
 
-- 🔭 I’m currently working on [a minimal API in ASP.NET](https://github.com/briannarenni/RequestAPI)
-
-- 🌱 I’m currently learning **Angular, some Python, and Docker**
+- 🌱 I’m currently learning **some Python, and some DevOps**
 
 - ⚡ Fun fact **I started out self taught!**
 
