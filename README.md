@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋🏾, I'm Renni!</h1>
 <h3 align="center">Self-taught frontend developer, currently working in .NET stack.</h3>
 
-- 📌 Current Projects: Revisiting and reimagining some of my old personal projects from when I first started out
+- 📌 Current Project: Revisiting and reimagining some of my old personal projects from when I first started out
+
+- 💾 Last Project: [Tentacles Web Store](https://github.com/ECommerceAppTeamB), a group collaboration!
 
 - ⚡ Fun fact: I do work in animal rescue, and I just passed the 10 year mark of being a volunteer pet adoption counselor 😎
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
