@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏾, I'm Renni!</h1>
-<h3 align="center">Mainly a frontend developer, currently working in .NET stack.</h3>
+<h3 align="center">Self-taught frontend developer, currently working in .NET stack.</h3>
 
-- 🌱 I’m currently learning some Python, and some DevOps (CI/CD)
+- 📌 Current Projects: Revisiting and reimagining some of my old personal projects from when I first started out
 
-- ⚡ Fun fact: **I started out self taught!**
+- ⚡ Fun fact: I do work in animal rescue, and I just passed the 10 year mark of being a volunteer pet adoption counselor 😎
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
