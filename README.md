@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Renni!</h1>
 <h3 align="center">Self-taught frontend developer, currently working in .NET stack.</h3>
 
-- 📌 Current Project: Revisiting and reimagining some of my old personal projects from when I first started out
+- 📌 Current Project: Taking my Angular skills and experimenting with React
 
 - 💾 Last Project: [Tentacles Web Store](https://github.com/ECommerceAppTeamB), a group collaboration!
 
