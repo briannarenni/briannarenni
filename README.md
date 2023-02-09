@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Renni!</h1>
-<h3 align="center">Self-taught frontend developer, currently working in .NET stack.</h3>
+<h3 align="center">Auto-didact, front-end developer, currently working with the .NET stack.</h3>
 
 - 📌 Current Project: Taking my Angular skills and experimenting with React
 
