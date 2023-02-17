@@ -1,13 +1,18 @@
 <h1 align="center">Hi, I'm Brianna Renni! 👋🏾</h1>
-<h2 align="center">Auto-didact front-end developer</h2>
 
-I work with Angular and the .NET stack, but my current passion project is diving in to learn React.
+<h3 align="center">I'm an auto-didact front-end developer, currently working in Angular and .NET.</h3>
 
-- 📌 Current Project: [RequestPortal](https://github.com/briannarenni/RequestPortal), a React app using my API for user authentication.
+---
 
-- 💾 Last Project: [foodfinder-react]([https://github.com/ECommerceAppTeamB](https://github.com/briannarenni/foodfinder-react)
+I wanted to start 2023 by expanding my skillset and diving in to learn React and so far, so good.
 
-- ⚡ Fun fact: I do work in animal rescue, and I just passed the 10 year mark of being a volunteer pet adoption counselor 😎
+<br>
+
+📌 **Current Project**: [RequestPortal](https://github.com/briannarenni/RequestPortal), a React app using my own minimal API.
+
+✅ **Last Project**: [foodfinder-react](https://github.com/briannarenni/foodfinder-react), a remake of an Angular project I did.
+
+⚡ **Fun fact**: I do work in animal rescue, and I just passed the 10 year mark of being a volunteer pet adoption counselor 😎
 
 ---
 
