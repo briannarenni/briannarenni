@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Brianna Renni! 👋🏾</h1>
 <h3 align="center">Auto-didact, front-end developer, currently working with the .NET stack.</h3>
 
-- 📌 Current Project: Taking my Angular skills and experimenting with React
+- 📌 Current Project: Taking my Angular skills and experimenting with React: [RequestPortal](https://github.com/briannarenni/RequestPortal)
 
 - 💾 Last Project: [Tentacles Web Store](https://github.com/ECommerceAppTeamB), a group collaboration!
 
