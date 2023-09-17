@@ -1,5 +1,5 @@
 <h1 align="center">👋🏾 Hi, I'm Brianna Renni!</h1>
-<h2 align="center">Full stack developer with a frontend focus</h2>
+<h2 align="center">Frontend focused developer</h2>
 
 
 <h2 align="left">Languages & Tools:</h2>
